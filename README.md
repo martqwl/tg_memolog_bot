@@ -39,12 +39,6 @@ all, day, month).
 
 Для связи с разработчиками можно использовать следующие контакты:
 
-- Аня
-    - [Telegram](https://t.me/mrisxxs)
-    - [Почта](atrosenko596@gmail.com)
-- Петя
-    - [Telegram]()
-    - [Почта]()
 - Ярослав
     - [Telegram](https://t.me/Pl1nTuS32)
     - [Почта](farev752@gmail.com)
